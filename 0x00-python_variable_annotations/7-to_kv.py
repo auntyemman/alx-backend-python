@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 """annotated function, takes str float or int, returns a tuple"""
 from typing import List, Union, Tuple
