@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
-import math
 
 """A function which takes a float as argument"""
+
+import math
 
 
 def floor(n: float) -> int:
